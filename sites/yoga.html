@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+
+<html lang = "en">
+	<head>
+		<meta charset = "utf-8">
+		<title>Yoga</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="stylesheet" href="static/css/style.css">
+        <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%221em%22 font-size=%2280%22>🌻</text></svg>">
+        <meta name="description" content="Find health videos on YouTube distraction-free with variety.">
+	</head>
+	<body>
+		<div class="container">
+            <div class = "inner">
+                <h1 class="main-font">Yoga</h1>
+                <div class = "btn-container">
+                    <a href = "#video-container" id = "b_list" class = "btn btn-default exercise link category-link main-font">10 min</a>								
+                    <br/>
+                    <a href = "#video-container" id = "c_list" class = "btn btn-default exercise link category-link main-font">15 min</a>								
+                    <br/>
+                    <a href = "#video-container" id = "d_list" class = "btn btn-default exercise link category-link main-font">20 min</a>								
+                    <br/>
+                    <a href = "#video-container" id = "e_list" class = "btn btn-default exercise link category-link main-font">30 min</a>								
+                    <br/>
+                    <a href = "#video-container" id = "f_list" class = "btn btn-default exercise link category-link main-font">45 min</a>								
+                    <br/>
+                    <a href = "#video-container" id = "g_list" class = "btn btn-default exercise link category-link main-font">60 min</a>
+                    <br/>
+                    <a href = "../index.html" class = "btn btn-default-reverse link main-font">Home</a>
+                </div>								
+            </div>        
+        </div>
+    
+        <div id = "video-container">
+            <div class = "container">
+                <div class = "inner">
+                    <br/>
+                    
+                    <p id = "creator" class = "main-font creator-tag">Test Creator</p>
+                    
+                    <br/>
+                    
+                    <iframe id = "workout-video" width="420" height="315" src="" allowfullscreen>
+                    </iframe>
+                    
+                    <br/>
+                    
+                    <button class = "btn btn-default link arrow" id = "left-vid"> <- </button>
+                    <span class = "main-font title" id = "vid-index"></span>
+                    <button class = "btn btn-default link arrow" id = "right-vid"> -> </button>
+                    
+                    <br/>
+                    
+                    <button id = "reroll-btn" class = "btn link btn-default-reverse main-font">Reroll</button>
+                </div>
+            </div>
+        </div>
+		<script src="static/js/Video.js"></script>
+		<script src="static/js/yoga_list.js"></script>
+		<script src="static/js/script.js"></script>
+	</body>
+<html>
