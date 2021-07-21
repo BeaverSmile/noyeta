@@ -15,6 +15,7 @@ var b_list = [
     new Video("y9NDunihiIc", "Sean Vigue Fitness"),
     new Video("EiPe17CzReE", "Sean Vigue Fitness"),
     new Video("Yz-R0ZkThP4", "The Yoga Ranger Studio with Aprille Walker"),
+    new Video("4vTJHUDB5ak", "yoginimelbourne"),
 ];
 
 // Lower Back

@@ -53,7 +53,26 @@ var c_list = [
     new Video("uYBIFTUIHkU", "Sean Vigue Fitness"),
     new Video("RAkbEev_YSc", "Sean Vigue Fitness"),
     new Video("YtkWYiURmrw", "The Yoga Ranger Studio with Aprille Walker"),
-
+    new Video("I3YmwaOlLas", "Candace Cabrera"),
+    new Video("ysOXmEjXT7Y", "SarahBethYoga"),
+    new Video("g_tea8ZNk5A", "Mady Morrison"),
+    new Video("tu5V_FqsfuM", "Annie Clarke"),
+    new Video("o4vj9O5MCl0", "Jessica Richburg"),
+    new Video("tFvt4iBRgFo", "Five Parks Yoga w/ Erin Sampson"),
+    new Video("uMAh_Ws7yNs", "Boho Beautiful Yoga"),
+    new Video("DYY8KovKO3M", "SarahBethYoga"),
+    new Video("DYY8KovKO3M", "SarahBethYoga"),
+    new Video("TZLLvJmGQL8", "BrettLarkinYoga"),
+    new Video("HgxBGC7OgJA", "SarahBethYoga"),
+    new Video("LAve8xHkf_M", "SarahBethYoga"),
+    new Video("SsJcAdrGR6Y", "Yoga with Kassandra"),
+    new Video("kjDk9lFmkaw", "SarahBethYoga"),
+    new Video("vXfghJrlt1o", "Five Parks Yoga w/ Erin Sampson"),
+    new Video("WM-6a04A3R4", "Rituals Cosmetics Global"),
+    new Video("Nw2oBIrQGLo", "SarahBethYoga"),
+    new Video("utrAlZf_Pjs", "MadFit"),
+    new Video("NmWXHVtvQes", "Cat Meffan"),
+    new Video("mTcmw-sFJco", "Sarah Wes"),
 
 ]
 
@@ -98,7 +117,7 @@ var d_list = [
     new Video("nEdm88qIHRc", "DoYogaWithMe"),
     new Video("eWCe_KE-l5o", "Sean Vigue Fitness"),
     new Video("rso2-hhSot0", "Sean Vigue Fitness"),
-    new Video("Lff3B-LIJRk", "Sean Vigue Fitness"),
+    new Video("Lff3B-LIJRk?start=69", "Sean Vigue Fitness"),
     new Video("ChBDuFaxhFM", "Sean Vigue Fitness"),
     new Video("mhjzPuS-W_8", "Sean Vigue Fitness"),
     new Video("qE_V6F54QFQ", "Sean Vigue Fitness"),
@@ -106,7 +125,10 @@ var d_list = [
     new Video("LCOgYG2fySE", "The Yoga Ranger Studio with Aprille Walker"),
     new Video("BqyCmvmtWp8", "The Yoga Ranger Studio with Aprille Walker"),
     new Video("b80xRj_hPFY", "The Yoga Ranger Studio with Aprille Walker"),
-
+    new Video("S5mf2bw_P9M", "Annie Clarke"),
+    new Video("WM-6a04A3R4", "Rituals Cosmetics Global"),
+    new Video("7Ryl2SqQldc", "SarahBethYoga"),
+    new Video("kJypraE591c", "SarahBethYoga"),
 ]
 
 // 30 min
@@ -156,6 +178,9 @@ var e_list = [
     new Video("krOdZiox8rY", "The Yoga Ranger Studio with Aprille Walker"),
     new Video("yfbvkowhVdM", "The Yoga Ranger Studio with Aprille Walker"),
     new Video("ehm0BrwjXPA", "The Yoga Ranger Studio with Aprille Walker"),
+    new Video("gnC1_Lx9VkQ", "Rituals Cosmetics Global"),
+    new Video("4vTJHUDB5ak", "yoginimelbourne"),
+    new Video("i_okbXKf_cM", "Flow and Heal Yoga with Marinka"),
 ]
 
 // 45 min
