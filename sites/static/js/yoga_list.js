@@ -73,6 +73,11 @@ var c_list = [
     new Video("utrAlZf_Pjs", "MadFit"),
     new Video("NmWXHVtvQes", "Cat Meffan"),
     new Video("mTcmw-sFJco", "Sarah Wes"),
+    new Video("nzKT1IQ4CQY", "Chaz Rough"),
+    new Video("j6-WKfoxEGk", "Chaz Rough"),
+    new Video("aiZJP19Mj-0", "Chaz Rough"),
+    new Video("-WRTBnMDBNE", "Chaz Rough"),
+    new Video("jJeWHOyvSko", "Chaz Rough"),
 
 ]
 
